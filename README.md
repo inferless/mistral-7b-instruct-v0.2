@@ -1,5 +1,5 @@
 # Mistral
-Mistral 7B is a powerful language model released by Mistral AI, boasting 7.3 billion parameters. This model outperforms other models like Llama 2 13B and Llama 1 34B on various benchmarks. Mistral 7B excels in tasks such as mathematics, code generation, and reasoning due to its innovative features like Grouped-query Attention (GQA) for faster inference and Sliding Window Attention (SWA) for handling longer sequences efficiently.
+The Mistral-7B-Instruct-v0.2 Large Language Model (LLM) is an instruct fine-tuned version of the Mistral-7B-v0.2. This model outperforms other models like Llama 2 13B and Llama 1 34B on various benchmarks. Mistral 7B excels in tasks such as mathematics, code generation, and reasoning due to its innovative features like Grouped-query Attention (GQA) for faster inference and Sliding Window Attention (SWA) for handling longer sequences efficiently.
 ## Deploy Mistral-7B using Inferless:
 - Deployment of Mistral-7B model using [vLLM](https://github.com/vllm-project/vllm).
 - By using the vLLM, you can expect an average latency of 1.50 sec.
